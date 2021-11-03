@@ -1,0 +1,70 @@
+h2{font-weight:bold;color:blue}
+.Bom{
+	color:blue;font-weight: bold
+}
+.gom{
+	color: Red
+}
+.mk{
+	background-color: white; color:green;
+}
+.double{
+	background: green; color: pink
+}
+.underline{
+	text-decoration: underline; font-size: 20px;
+}
+.overline{
+	text-decoration: overline;
+}
+.line-through{
+	text-decoration: line-through;
+}
+.font{
+	font-family: arial;
+	font-weight: bold;
+	font-size: 50px;
+	background-color: pink;
+	color: black;
+	font-style: italic;
+	text-transform: uppercase;	
+}
+.font2{font-variant: small-caps;
+	text-transform: lowercase;
+	font-size: 2em;
+	line-height: 10px
+}
+.don{
+	font:  italic small-caps uppercase green
+}
+.bengali{
+	color: green;font-size: 30px; font-weight: bold; text-decoration: underline;
+}
+.picture{
+	text-tranform: uppercase
+}
+table{
+	text-align: center; margin: 50px auto; background-color: pink;
+	border-collapse: collapse;
+	border: 2px solid red;
+}
+.left{
+	text-align: left;
+}
+.munna{
+	background-color: black;
+	color: white;
+}
+.khan{
+	background-color: green;
+	color:black
+}
+table caption{
+	background-color: orange
+}
+.div1{
+	width: 300px; height: 300px; background-color: pink; margin-top: 50px; margin-left: 50px; padding: 40px; 
+}
+.div2{
+	width: 300px; height: 300px; background-color: orange; margin-top: 20px; margin-left: 50px; padding-right: 40px
+}
